@@ -1,0 +1,15 @@
+.cua-principal{
+    background-color: rgb(179, 167, 167);
+    height: 550px;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.ultimo{
+    display: flex;
+    align-items: center;
+    margin-left: 580px;
+}
