@@ -1,0 +1,33 @@
+.cua2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cuas{
+    border: 1px solid black;
+    height: 130px;
+    width: 650px;
+    margin: 5px;
+    background-color: white;
+}
+
+.cua3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cua4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.txt{
+    margin-left: 10px;
+}
+
+.tit{
+    margin-left: 10px;
+}
